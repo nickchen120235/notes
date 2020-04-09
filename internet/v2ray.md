@@ -5,15 +5,15 @@
 
 You may need <code>sudo</code> in case of any permission issue.
 
-Config file at <code>/etc/v2ray/config.json</code>
-
 Use <code>systemctl</code> to control v2ray service
 * Start v2ray service <code>sudo systemctl start v2ray</code>
 * Stop v2ray service <code>sudo systemctl stop v2ray</code>
 * View status of v2ray service <code>sudo systemctl status v2ray</code>
+
 ## Basic Configuration (config.json)
 *Note: only related parts are shown, basically it will work after installation*
 ### Server side
+Config file at <code>/etc/v2ray/config.json</code>
 ```json
 "inbounds": [{
     "port": /* portnumber */,
