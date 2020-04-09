@@ -1,18 +1,25 @@
 # LaTeX Notes
 
 - Set paper margin
->\usepackage[a4paper, margin=.5in]{geometry}
+```latex
+\usepackage[a4paper, margin=.5in]{geometry}
+```
 - Integral Subtraction
->\def\at{ \
-    &nbsp;&nbsp;&nbsp;&nbsp;\left. \
-    &nbsp;&nbsp;&nbsp;&nbsp;\vphantom{\int} \
-    &nbsp;&nbsp;&nbsp;&nbsp;\right| \
+```latex
+\def\at{
+    \left.
+    \vphantom{\int}
+    \right|
 }
+```
 - Bigger fraction
->\dfrac
+```latex
+\dfrac
+```
 - Bigger cases
-
->\usepackge{mathtools}\
-\begin{dcases}\
-&nbsp;&nbsp;&nbsp;&nbsp;...\
+```latex
+\usepackge{mathtools}
+\begin{dcases}
+    ...
 \end{dcases}
+```
