@@ -14,7 +14,7 @@ Use <code>systemctl</code> to control v2ray service
 Visit https://github.com/v2ray/v2ray-core/releases to get the executables.
 
 ## Basic Configuration (config.json)
-*Note: only related parts are shown, basically it will work after installation*
+*Note: only related parts are shown, for server side, basically it will work after installation*
 ### Server side
 Config file at <code>/etc/v2ray/config.json</code>
 ```json
