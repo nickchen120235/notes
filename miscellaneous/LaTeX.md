@@ -49,3 +49,28 @@
 ```latex
 \lim_{A\to B}
 ```
+#### modulo with ()
+```latex
+\pmod{}
+```
+#### bold/itatic
+bold
+```latex
+\textbf{}
+```
+italic
+```latex
+\textit{}
+```
+#### Number Sets
+```latex
+\usepackage{amssymb}
+\mathbb{P} % prime numbers
+\mathbb{W} % whole numbers
+\mathbb{N} % natural numbers
+\mathbb{Z} % integers
+\mathbb{I} % irrational numbers
+\mathbb{Q} % rational numbers
+\mathbb{R} % real numbers
+\mathbb{C} % complex numbers
+```
