@@ -1,6 +1,6 @@
 # LaTeX Notes
 
-#### Set paper margin
+#### Set Paper Margin
 ```latex
 \usepackage[a4paper, margin=.5in]{geometry}
 ```
@@ -34,4 +34,8 @@
 \usepackage{mathtools}
 \xrightarrow[below]{above}
 \xRightarrow[below]{above}
+```
+#### Limit
+```latex
+\lim_{A\to B}
 ```
