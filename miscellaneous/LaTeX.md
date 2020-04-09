@@ -1,5 +1,12 @@
 # LaTeX Notes
-
+## Table of Contents
+- <a href=https://github.com/nickchen120235/notes/blob/master/miscellaneous/LaTeX.md#set-paper-margin>Set Paper Margin</a>
+- <a href=https://github.com/nickchen120235/notes/blob/master/miscellaneous/LaTeX.md#integral-subtraction>Integral Subtraction</a>
+- <a href=https://github.com/nickchen120235/notes/blob/master/miscellaneous/LaTeX.md#bigger-fraction>Bigger fraction</a>
+- <a href=https://github.com/nickchen120235/notes/blob/master/miscellaneous/LaTeX.md#bigger-cases>Bigger cases</a>
+- <a href=https://github.com/nickchen120235/notes/blob/master/miscellaneous/LaTeX.md#fourier-transform-symbols>Fourier Transform Symbols</a>
+- <a href=https://github.com/nickchen120235/notes/blob/master/miscellaneous/LaTeX.md#words-abovebelow-arrow>Words above/below Arrow</a>
+- <a href=https://github.com/nickchen120235/notes/blob/master/miscellaneous/LaTeX.md#limit>Limit</a>
 #### Set Paper Margin
 ```latex
 \usepackage[a4paper, margin=.5in]{geometry}
