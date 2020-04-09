@@ -18,7 +18,7 @@
 ```
 - Bigger cases
 ```latex
-\usepackge{mathtools}
+\usepackage{mathtools}
 \begin{dcases}
     ...
 \end{dcases}
