@@ -1,6 +1,6 @@
 # v2ray
 ## Installation
-### Server side (Using Ubuntu 18.04 LTS, should work with other versions of Ubuntu as well.)
+### Server (Ubuntu 18.04 LTS, should work with other versions of Ubuntu as well.)
 <code>wget https://install.direct/go.sh && chmod +x go.sh && ./go.sh</code>
 
 <code>sudo</code> if you encounter any permission issue.
@@ -10,12 +10,12 @@ Use <code>systemctl</code> to control v2ray service
 * Stop v2ray service <code>sudo systemctl stop v2ray</code>
 * View status of v2ray service <code>sudo systemctl status v2ray</code>
 
-### Client side (Using Windows 10)
+### Client (Windows 10)
 Visit https://github.com/v2ray/v2ray-core/releases to get the executables.
 
 ## Basic Configuration (config.json)
 *Note: only related parts are shown, for server side, basically it will work after installation*
-### Server side
+### Server
 Config file at <code>/etc/v2ray/config.json</code>
 ```json
 "inbounds": [{
@@ -35,7 +35,7 @@ Config file at <code>/etc/v2ray/config.json</code>
 > Use <code>uuidgen</code> to generate uuid.\
 > <code>New-Guid</code> in Windows PowerShell may also work. (Not tested)
 
-### Client side
+### Client
 Config file at <code>/v2ray-windows-64/config.json</code>
 
 #### inbounds: Computer -> v2ray client
@@ -81,5 +81,5 @@ Config file at <code>/v2ray-windows-64/config.json</code>
 - "address": server ip
 - "port": same as server
 - "users":
-    - "id": same as "client": "id"
-    - "alterId": same as "client": "alterId"
+    - "id": same as server-side "client": "id"
+    - "alterId": same as server-side "client": "alterId"
