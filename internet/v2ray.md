@@ -16,11 +16,11 @@ Use <code>systemctl</code> to control v2ray service
 ### Server side
 ```json
 "inbounds": [{
-    "port": /* portnumber */,
+    "port": 1234, //port number
     "protocol": "vmess",
     "settings": {
         "clients": [{
-            "id": /* uuid */,
+            "id": "712ce14d-4f85-49df-9588-9a57e9cd541e", //uuid
             "level": 1,
             "alterId": 64
         }]
