@@ -57,7 +57,7 @@ Config file at <code>/v2ray-windows-64/config.json</code>
 ```
 "port": port exposed to local computer\
 "listen": "127.0.0.1" to prevent any other computer found that the port is open\
-"protocol": "http" for other clients on local computer to connect
+"protocol": "http" for other clients on local computer to connect\
 "settings", "sniffing" not sure how they work
 
 #### outbounds: v2ray client -> v2ray server
