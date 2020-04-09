@@ -16,16 +16,18 @@ Use <code>systemctl</code> to control v2ray service
 Config file at <code>/etc/v2ray/config.json</code>
 ```json
 "inbounds": [{
-    "port": /* portnumber */,
+    "port": 1234,
     "protocol": "vmess",
     "settings": {
         "clients": [{
-            "id": /* uuid */,
+            "id": "712ce14d-4f85-49df-9588-9a57e9cd541e",
             "level": 1,
             "alterId": 64
         }]
     }
 }]
 ```
+"port": port number
+"id": uuid
 > Use <code>uuidgen</code> to generate uuid.\
 > <code>New-Guid</code> in Windows PowerShell may also work. (Not tested)
