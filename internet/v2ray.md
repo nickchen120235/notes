@@ -16,16 +16,18 @@ Use <code>systemctl</code> to control v2ray service
 ### Server side
 ```json
 "inbounds": [{
-    "port": 1234, //port number
+    "port": 1234,
     "protocol": "vmess",
     "settings": {
         "clients": [{
-            "id": "712ce14d-4f85-49df-9588-9a57e9cd541e", //uuid
+            "id": "712ce14d-4f85-49df-9588-9a57e9cd541e",
             "level": 1,
             "alterId": 64
         }]
     }
 }]
 ```
+"port": port number
+"id": uuid
 > Use <code>uuidgen</code> to generate uuid.\
 > <code>New-Guid</code> in Windows PowerShell may also work. (Not tested)
