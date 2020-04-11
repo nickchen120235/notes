@@ -76,3 +76,14 @@ italic
 \mathbb{R} % real numbers
 \mathbb{C} % complex numbers
 ```
+#### Multiline Math Environment
+```latex
+\usepackage{mathtools} %amsmath
+\begin{align*}
+    ...
+\end{align*}
+```
+#### Macro
+```latex
+\def\commandname[#1]{Print``#1''} %\def <command> <parameter-text>{<replacement-text>}
+```
