@@ -1,4 +1,4 @@
-# Python Note
+# Python Notes
 
 #### String Reverse
 ```python

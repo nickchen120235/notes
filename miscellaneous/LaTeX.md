@@ -10,6 +10,8 @@
 - <a href=https://github.com/nickchen120235/notes/blob/master/miscellaneous/LaTeX.md#modulo-with->modulo with ()</a>
 - <a href=https://github.com/nickchen120235/notes/blob/master/miscellaneous/LaTeX.md#bolditatic>**bold**/*itatic*</a>
 - <a href=https://github.com/nickchen120235/notes/blob/master/miscellaneous/LaTeX.md#number-sets>Number Sets</a>
+- <a href=https://github.com/nickchen120235/notes/blob/master/miscellaneous/LaTeX.md#multiline-math-environment>Multiline Math Environment</a>
+-<a href=https://github.com/nickchen120235/notes/blob/master/miscellaneous/LaTeX.md#macro>Macro</a>
 ---
 
 #### Set Paper Margin

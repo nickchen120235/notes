@@ -30,7 +30,7 @@ Config file at <code>/etc/v2ray/config.json</code>
     }
 }]
 ```
-"port": port number exposed to client\
+"port": port exposed to client\
 "id": uuid of client
 > Use <code>uuidgen</code> to generate uuid.\
 > <code>New-Guid</code> in Windows PowerShell may also work. (Not tested)
