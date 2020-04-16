@@ -13,14 +13,3 @@ Directly using <code>insert</code> commands to a non-exist collection will creat
 ### Insert
 #### db.collectionname.insertOne(document)
 >Example: <code>db.newCollection.insertOne({"aaa": 1})</code> will insert **{"aaa": 1}** to collection **newCollection** under current database.
-
-## MongoDB Compass Community
-### Connection Settings
-Hostname: 127.0.0.1\
-Port: 27017\
-SSH Tunnel: Use Identity File\
-SSH Hostname: 192.168.159.11\
-SSH Tunnel Port: 22\
-SSH Username: nick\
-**SSH Identity File: ID_RSA**\
-SSH Passphrase: *(empty)*
