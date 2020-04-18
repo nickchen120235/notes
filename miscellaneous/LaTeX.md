@@ -11,7 +11,9 @@
 - <a href=https://github.com/nickchen120235/notes/blob/master/miscellaneous/LaTeX.md#bolditatic>**bold**/*itatic*</a>
 - <a href=https://github.com/nickchen120235/notes/blob/master/miscellaneous/LaTeX.md#number-sets>Number Sets</a>
 - <a href=https://github.com/nickchen120235/notes/blob/master/miscellaneous/LaTeX.md#multiline-math-environment>Multiline Math Environment</a>
--<a href=https://github.com/nickchen120235/notes/blob/master/miscellaneous/LaTeX.md#macro>Macro</a>
+- <a href=https://github.com/nickchen120235/notes/blob/master/miscellaneous/LaTeX.md#macro>Macro</a>
+- <a href=https://github.com/nickchen120235/notes/blob/master/miscellaneous/LaTeX.md#vertical-addition>Vertical Addition</a>
+- <a href=https://github.com/nickchen120235/notes/blob/master/miscellaneous/LaTeX.md#becausetherefore>Because/Therefore</a>
 ---
 
 #### Set Paper Margin

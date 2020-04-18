@@ -9,3 +9,4 @@
 - <a href=https://github.com/nickchen120235/notes/blob/master/miscellaneous/LaTeX.md>LaTeX</a>
 - <a href=https://github.com/nickchen120235/mongo-example>mongo-example (mongoDB + JavaScript)</a>
 - <a href=https://github.com/nickchen120235/notes/blob/master/miscellaneous/ffmpeg.md>FFmpeg</a>
+- <a href=https://github.com/nickchen120235/notes/blob/master/miscellaneous/MongoDB%20Shell.md>MongoDB Shell</a>
