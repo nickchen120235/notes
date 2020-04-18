@@ -89,3 +89,18 @@ italic
 ```latex
 \def\commandname[#1]{Print``#1''} %\def <command> <parameter-text>{<replacement-text>}
 ```
+#### Vertical Addition
+```latex
+\usepackage{booktabs}
+\begin{array}{r}
+     12\\
+    +34\\
+    \midrule
+     46
+\end{array}
+```
+#### Because/Therefore
+```latex
+\usepackage{amssymb}
+\(\because\therefore\)
+```
