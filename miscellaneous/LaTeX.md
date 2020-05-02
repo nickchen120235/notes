@@ -107,3 +107,8 @@ italic
 \usepackage{amssymb}
 \(\because\therefore\)
 ```
+#### Insert Image
+```latex
+\usepackage{graphicx}
+\includegraphics[width=\textwidth]{/path/to/image}
+```
