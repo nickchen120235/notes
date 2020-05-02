@@ -43,6 +43,7 @@
 ```latex
 \usepackage{mathrsfs}
 \mathscr{F} %Fourier Transform
+\usepackage{amsfonts}
 \mathfrak{Im} %Imaginary Part (also works for "Re")
 ```
 #### Words above/below Arrow
